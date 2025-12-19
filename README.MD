@@ -68,6 +68,9 @@
 ## 🤝 Let’s Connect
 
 <p>
+  <a href="mailto:saikatatwork014@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+<p>
   <a href="mailto:ghoshsaikat019@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
