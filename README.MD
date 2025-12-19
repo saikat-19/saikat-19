@@ -65,14 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghoshsaikat019&show_icons=true&theme=default" height="160" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 <p>
